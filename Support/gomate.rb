@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby -wKU
+#!/usr/bin/env ruby -wEutf-8
 
 require ENV['TM_SUPPORT_PATH'] + '/lib/exit_codes'
 require ENV['TM_SUPPORT_PATH'] + '/lib/textmate'
